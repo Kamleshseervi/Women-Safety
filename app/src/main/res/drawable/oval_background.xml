@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="utf-8"?>
+<shape xmlns:android="http://schemas.android.com/apk/res/android"
+    android:shape="oval" >
+    <gradient
+        android:startColor="#F31403"
+        android:centerColor="#102DCD"
+        android:endColor="@color/fui_bgEmail"
+        android:angle="90"/>
+</shape>
